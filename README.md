@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, AI**
 
-- 📫 How to reach me **sparab331@gmail.com**
+- 📫 How to reach me **swapnilparab331@gmail.com**
 
 - ⚡ Fun fact **I am Mechanical Engineer**
 
